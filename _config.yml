@@ -3,7 +3,7 @@ title: "SirRandoo's Purchase List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+baseurl: 'https://raw.githubusercontent.com/OnehighZergling/Zergitems/main/StoreItems.json/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'sirrandoo'
